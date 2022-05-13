@@ -1,6 +1,6 @@
 ﻿# **This fork exists strictly to track against upstream and to submit patches.**
  
-# IRLibCP -- a Circuit Python Module for Receiving, Decoding and Sending Infrared Signals.
+IRLibCP -- a Circuit Python Module for Receiving, Decoding and Sending Infrared Signals.
 
 IRLibCP is copyright 2017 by Chris Young. It it is translation of the original IRLib2 written in C++ by Chris Young. See COPYRIGHT.txt for details.
 
