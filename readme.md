@@ -1,4 +1,4 @@
-﻿This fork exists strictly to track against upstream and to submit patches.
+﻿# **This fork exists strictly to track against upstream and to submit patches.**
  
 # IRLibCP -- a Circuit Python Module for Receiving, Decoding and Sending Infrared Signals.
 
